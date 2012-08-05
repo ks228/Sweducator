@@ -1,0 +1,844 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dict types="1 verb 2 substantiv 3 adjektiv">
+	<word orig="i" soundfile="0.ogg" type="">in, inside</word>
+	<word orig="och" soundfile="1.ogg" type="">and</word>
+	<word orig="att" soundfile="2.ogg" type="">to [do something]</word>
+	<word orig="det" soundfile="3.ogg" type="">that, the</word>
+	<word orig="som" soundfile="4.ogg" type="">which, as</word>
+	<word orig="en" soundfile="5.ogg" type="">one, a/an</word>
+	<word orig="på" soundfile="6.ogg" type="">on, at</word>
+	<word orig="är" soundfile="7.ogg" type="">is, are, am</word>
+	<word orig="av" soundfile="8.ogg" type="">of, off (deactivated)</word>
+	<word orig="för" soundfile="9.ogg" type="">for</word>
+	<word orig="med" soundfile="10.ogg" type="">with</word>
+	<word orig="till" soundfile="11.ogg" type="">to</word>
+	<word orig="den" soundfile="12.ogg" type="">that, the</word>
+	<word orig="har" soundfile="13.ogg" type="">has, have</word>
+	<word orig="de" soundfile="14.ogg" type="">they, (plural) the</word>
+	<word orig="inte" soundfile="15.ogg" type="">not</word>
+	<word orig="om" soundfile="16.ogg" type="">if</word>
+	<word orig="ett" soundfile="17.ogg" type="">one, a/an</word>
+	<word orig="han" soundfile="18.ogg" type="">he</word>
+	<word orig="men" soundfile="19.ogg" type="">but, however</word>
+	<word orig="var" soundfile="20.ogg" type="">where, were</word>
+	<word orig="jag" soundfile="21.ogg" type="">I</word>
+	<word orig="sig" soundfile="22.ogg" type="">oneself</word>
+	<word orig="från" soundfile="23.ogg" type="">from</word>
+	<word orig="vi" soundfile="24.ogg" type="">we</word>
+	<word orig="så" soundfile="25.ogg" type="">so</word>
+	<word orig="kan" soundfile="26.ogg" type="">can, could</word>
+	<word orig="man" soundfile="27.ogg" type="">male, one (as in "one must do something")</word>
+	<word orig="när" soundfile="28.ogg" type="">when</word>
+	<word orig="år" soundfile="29.ogg" type="">year (sing/plu)</word>
+	<word orig="säger" soundfile="30.ogg" type="">says (past tense)</word>
+	<word orig="hon" soundfile="31.ogg" type="">she</word>
+	<word orig="under" soundfile="32.ogg" type="">under, below, during</word>
+	<word orig="också" soundfile="33.ogg" type="">also, as well</word>
+	<word orig="efter" soundfile="34.ogg" type="">after</word>
+	<word orig="eller" soundfile="35.ogg" type="">or</word>
+	<word orig="nu" soundfile="36.ogg" type="">now</word>
+	<word orig="sin" soundfile="37.ogg" type="">one's (used to denote ownership)</word>
+	<word orig="där" soundfile="38.ogg" type="">there, over there</word>
+	<word orig="vid" soundfile="39.ogg" type="">by, near (used for something near a time or place)</word>
+	<word orig="mot" soundfile="40.ogg" type="">toward, against</word>
+	<word orig="ska" soundfile="41.ogg" type="">will, am</word>
+	<word orig="skulle" soundfile="42.ogg" type="">should</word>
+	<word orig="kommer" soundfile="43.ogg" type="">will (future tense)</word>
+	<word orig="ut" soundfile="44.ogg" type="">out</word>
+	<word orig="får" soundfile="45.ogg" type="">may, allowed (to), sheep</word>
+	<word orig="finns" soundfile="46.ogg" type="">exists, is</word>
+	<word orig="vara" soundfile="47.ogg" type="">(to/will) be, ware/product</word>
+	<word orig="hade" soundfile="48.ogg" type="">had</word>
+	<word orig="alla" soundfile="49.ogg" type="">all, every</word>
+	<word orig="andra" soundfile="50.ogg" type="">other, others</word>
+	<word orig="mycket" soundfile="51.ogg" type="">much, lots</word>
+	<word orig="än" soundfile="52.ogg" type="">yet, than (used for comparisons)</word>
+	<word orig="här" soundfile="53.ogg" type="">here</word>
+	<word orig="då" soundfile="54.ogg" type="">then</word>
+	<word orig="sedan" soundfile="55.ogg" type="">afterward(s), later</word>
+	<word orig="över" soundfile="56.ogg" type="">over, above</word>
+	<word orig="bara" soundfile="57.ogg" type="">just, only</word>
+	<word orig="in" soundfile="58.ogg" type="">inside</word>
+	<word orig="blir" soundfile="59.ogg" type="">will be, becomes</word>
+	<word orig="upp" soundfile="60.ogg" type="">up</word>
+	<word orig="även" soundfile="61.ogg" type="">also</word>
+	<word orig="vad" soundfile="62.ogg" type="">what</word>
+	<word orig="få" soundfile="63.ogg" type="">few, receive</word>
+	<word orig="två" soundfile="64.ogg" type="">two</word>
+	<word orig="vill" soundfile="65.ogg" type="">want</word>
+	<word orig="ha" soundfile="66.ogg" type="">have</word>
+	<word orig="många" soundfile="67.ogg" type="">many</word>
+	<word orig="hur" soundfile="68.ogg" type="">how, in what way</word>
+	<word orig="mer" soundfile="69.ogg" type="">more</word>
+	<word orig="går" soundfile="70.ogg" type="">goes, walks, possible</word>
+	<word orig="Sverige" soundfile="71.ogg" type="">Sweden</word>
+	<word orig="kronor" soundfile="72.ogg" type="">crowns (headgear), Swedish Krona (SEK)</word>
+	<word orig="detta" soundfile="73.ogg" type="">this</word>
+	<word orig="nya" soundfile="74.ogg" type="">(the) new</word>
+	<word orig="procent" soundfile="75.ogg" type="">percent</word>
+	<word orig="skall" soundfile="76.ogg" type="">shall, will</word>
+	<word orig="hans" soundfile="77.ogg" type="">his</word>
+	<word orig="utan" soundfile="78.ogg" type="">without</word>
+	<word orig="sina" soundfile="79.ogg" type="">their</word>
+	<word orig="något" soundfile="80.ogg" type="">something</word>
+	<word orig="svenska" soundfile="81.ogg" type="">swedish (language/people/things)</word>
+	<word orig="allt" soundfile="82.ogg" type="">all, everything</word>
+	<word orig="första" soundfile="83.ogg" type="">first</word>
+	<word orig="fick" soundfile="84.ogg" type="">got, had, received</word>
+	<word orig="måste" soundfile="85.ogg" type="">must</word>
+	<word orig="mellan" soundfile="86.ogg" type="">between, in the center of</word>
+	<word orig="blev" soundfile="87.ogg" type="">became</word>
+	<word orig="bli" soundfile="88.ogg" type="">(to) become</word>
+	<word orig="dag" soundfile="89.ogg" type="">day</word>
+	<word orig="någon" soundfile="90.ogg" type="">someone</word>
+	<word orig="några" soundfile="91.ogg" type="">some</word>
+	<word orig="sitt" soundfile="92.ogg" type="">one's (used to denote ownership)</word>
+	<word orig="stora" soundfile="93.ogg" type="">big, great, large</word>
+	<word orig="varit" soundfile="94.ogg" type="">have been</word>
+	<word orig="dem" soundfile="95.ogg" type="">they, those</word>
+	<word orig="bland" soundfile="96.ogg" type="">among</word>
+	<word orig="kl" soundfile="97.ogg" type="">abbr for o'clock</word>
+	<word orig="bra" soundfile="98.ogg" type="">good, well</word>
+	<word orig="tre" soundfile="99.ogg" type="">three, 3</word>
+	<word orig="ta" soundfile="100.ogg" type="">take</word>
+	<word orig="genom" soundfile="101.ogg" type="">through</word>
+	<word orig="del" soundfile="102.ogg" type="">part</word>
+	<word orig="hela" soundfile="103.ogg" type="">whole, entire</word>
+	<word orig="annat" soundfile="104.ogg" type="">other</word>
+	<word orig="fram" soundfile="105.ogg" type="">forward, front (of something)</word>
+	<word orig="gör" soundfile="106.ogg" type="">does, makes</word>
+	<word orig="ingen" soundfile="107.ogg" type="">no one, none</word>
+	<word orig="Stockholm" soundfile="108.ogg" type="">the capital city of Sweden</word>
+	<word orig="göra" soundfile="109.ogg" type="">do, make</word>
+	<word orig="enligt" soundfile="110.ogg" type="">according (to)</word>
+	<word orig="mig" soundfile="111.ogg" type="">I, me</word>
+	<word orig="redan" soundfile="112.ogg" type="">already</word>
+	<word orig="inom" soundfile="113.ogg" type="">inside, in, within</word>
+	<word orig="kom" soundfile="114.ogg" type="">come, arrived</word>
+	<word orig="du" soundfile="115.ogg" type="">you (singular)</word>
+	<word orig="helt" soundfile="116.ogg" type="">wholly, fully, totally</word>
+	<word orig="ju" soundfile="117.ogg" type="">but/yet (used for emphasis)</word>
+	<word orig="samma" soundfile="118.ogg" type="">same</word>
+	<word orig="kanske" soundfile="119.ogg" type="">maybe, perhaps</word>
+	<word orig="själv" soundfile="120.ogg" type="">self</word>
+	<word orig="oss" soundfile="121.ogg" type="">us</word>
+	<word orig="tidigare" soundfile="122.ogg" type="">earlier</word>
+	<word orig="se" soundfile="123.ogg" type="">see</word>
+	<word orig="miljoner" soundfile="124.ogg" type="">millions</word>
+	<word orig="dock" soundfile="125.ogg" type="">however</word>
+	<word orig="denna" soundfile="126.ogg" type="">this, that</word>
+	<word orig="både" soundfile="127.ogg" type="">both</word>
+	<word orig="tid" soundfile="128.ogg" type="">time</word>
+	<word orig="kunna" soundfile="129.ogg" type="">can, (be) able (to)</word>
+	<word orig="fått" soundfile="130.ogg" type="">(has) received</word>
+	<word orig="stor" soundfile="131.ogg" type="">big, great, large</word>
+	<word orig="olika" soundfile="132.ogg" type="">different</word>
+	<word orig="ser" soundfile="133.ogg" type="">see, sees</word>
+	<word orig="flera" soundfile="134.ogg" type="">several, multiple</word>
+	<word orig="plats" soundfile="135.ogg" type="">place, location, spot</word>
+	<word orig="kunde" soundfile="136.ogg" type="">could, was able</word>
+	<word orig="gå" soundfile="137.ogg" type="">go, walk, leave</word>
+	<word orig="ur" soundfile="138.ogg" type="">from, out (of)</word>
+	<word orig="gäller" soundfile="139.ogg" type="">applies (to)</word>
+	<word orig="honom" soundfile="140.ogg" type="">him</word>
+	<word orig="aldrig" soundfile="141.ogg" type="">never</word>
+	<word orig="barn" soundfile="142.ogg" type="">child, children</word>
+	<word orig="varje" soundfile="143.ogg" type="">every</word>
+	<word orig="lite" soundfile="144.ogg" type="">little, some, few</word>
+	<word orig="sätt" soundfile="145.ogg" type="">way, means, method</word>
+	<word orig="just" soundfile="146.ogg" type="">only</word>
+	<word orig="väl" soundfile="147.ogg" type="">good, well</word>
+	<word orig="tar" soundfile="148.ogg" type="">takes</word>
+	<word orig="åt" soundfile="149.ogg" type="">for, to</word>
+	<word orig="mest" soundfile="150.ogg" type="">most</word>
+	<word orig="per" soundfile="151.ogg" type="">per, each</word>
+	<word orig="står" soundfile="152.ogg" type="">stands</word>
+	<word orig="fem" soundfile="153.ogg" type="">five, 5</word>
+	<word orig="tror" soundfile="154.ogg" type="">thinks, believes</word>
+	<word orig="rätt" soundfile="155.ogg" type="">right, correct</word>
+	<word orig="dessa" soundfile="156.ogg" type="">these, those</word>
+	<word orig="gång" soundfile="157.ogg" type="">time, occasion</word>
+	<word orig="därför" soundfile="158.ogg" type="">therefore, thats why, because</word>
+	<word orig="fyra" soundfile="159.ogg" type="">four, 4</word>
+	<word orig="ny" soundfile="160.ogg" type="">new</word>
+	<word orig="gick" soundfile="161.ogg" type="">walked, used (to)</word>
+	<word orig="hos" soundfile="162.ogg" type="">at (someone's)</word>
+	<word orig="dessutom" soundfile="163.ogg" type="">in addition</word>
+	<word orig="ger" soundfile="164.ogg" type="">gives</word>
+	<word orig="lika" soundfile="165.ogg" type="">equal, similar</word>
+	<word orig="eftersom" soundfile="166.ogg" type="">because</word>
+	<word orig="vilket" soundfile="167.ogg" type="">which</word>
+	<word orig="trots" soundfile="168.ogg" type="">despite (of)</word>
+	<word orig="tycker" soundfile="169.ogg" type="">thinks, (dis)likes, (dis)approves</word>
+	<word orig="människor" soundfile="170.ogg" type="">people, folks, humans</word>
+	<word orig="ligger" soundfile="171.ogg" type="">lies (down), located (at)</word>
+	<word orig="vet" soundfile="172.ogg" type="">knows</word>
+	<word orig="kvar" soundfile="173.ogg" type="">left, remaining</word>
+	<word orig="bättre" soundfile="174.ogg" type="">better</word>
+	<word orig="gjorde" soundfile="175.ogg" type="">did</word>
+	<word orig="ändå" soundfile="176.ogg" type="">yet, despite</word>
+	<word orig="inför" soundfile="177.ogg" type="">before</word>
+	<word orig="regeringen" soundfile="178.ogg" type="">the government</word>
+	<word orig="senaste" soundfile="179.ogg" type="">latest</word>
+	<word orig="samtidigt" soundfile="180.ogg" type="">contemporary (to), simultaneous (to)</word>
+	<word orig="annan" soundfile="181.ogg" type="">other, another, different</word>
+	<word orig="ännu" soundfile="182.ogg" type="">yet, still</word>
+	<word orig="the" soundfile="183.ogg" type="">tea</word>
+	<word orig="blivit" soundfile="184.ogg" type="">become</word>
+	<word orig="fall" soundfile="185.ogg" type="">fall (from a height), case</word>
+	<word orig="talet" soundfile="186.ogg" type="">the speech, the oration</word>
+	<word orig="exempel" soundfile="187.ogg" type="">example</word>
+	<word orig="gamla" soundfile="188.ogg" type="">(the) old, (the) former</word>
+	<word orig="deras" soundfile="189.ogg" type="">their, theirs</word>
+	<word orig="tiden" soundfile="190.ogg" type="">the time</word>
+	<word orig="min" soundfile="191.ogg" type="">my, mine</word>
+	<word orig="hennes" soundfile="192.ogg" type="">her, hers</word>
+	<word orig="sista" soundfile="193.ogg" type="">(the) last, (the) final</word>
+	<word orig="komma" soundfile="194.ogg" type="">(to) come, (to) arrive</word>
+	<word orig="större" soundfile="195.ogg" type="">greater, large, bigger</word>
+	<word orig="visar" soundfile="196.ogg" type="">shows</word>
+	<word orig="senare" soundfile="197.ogg" type="">later</word>
+	<word orig="tog" soundfile="198.ogg" type="">took</word>
+	<word orig="nästa" soundfile="199.ogg" type="">next</word>
+	<word orig="göteborg" soundfile="200.ogg" type="">eng. Gothenburg, a city in Sweden</word>
+	<word orig="ge" soundfile="201.ogg" type="">give</word>
+	<word orig="mindre" soundfile="202.ogg" type="">less, lesser</word>
+	<word orig="gjort" soundfile="203.ogg" type="">(has) done, (has) made</word>
+	<word orig="USA" soundfile="204.ogg" type="">United States of America</word>
+	<word orig="innan" soundfile="205.ogg" type="">before</word>
+	<word orig="alltid" soundfile="206.ogg" type="">always</word>
+	<word orig="pengar" soundfile="207.ogg" type="">money</word>
+	<word orig="sade" soundfile="208.ogg" type="">said, told</word>
+	<word orig="först" soundfile="209.ogg" type="">first</word>
+	<word orig="stället" soundfile="210.ogg" type="">the place, the location</word>
+	<word orig="vår" soundfile="211.ogg" type="">our, spring</word>
+	<word orig="före" soundfile="212.ogg" type="">before</word>
+	<word orig="svensk" soundfile="213.ogg" type="">swedish</word>
+	<word orig="tillbaka" soundfile="214.ogg" type="">back (to)</word>
+	<word orig="ner" soundfile="215.ogg" type="">down</word>
+	<word orig="nog" soundfile="216.ogg" type="">enough, probably</word>
+	<word orig="samt" soundfile="217.ogg" type="">also, and, additionally</word>
+	<word orig="ofta" soundfile="218.ogg" type="">often, oftentimes</word>
+	<word orig="själva" soundfile="219.ogg" type="">(the) self, (the) selves</word>
+	<word orig="inget" soundfile="220.ogg" type="">nothing</word>
+	<word orig="fler" soundfile="221.ogg" type="">more</word>
+	<word orig="säga" soundfile="222.ogg" type="">(to) say</word>
+	<word orig="egen" soundfile="223.ogg" type="">own</word>
+	<word orig="igen" soundfile="224.ogg" type="">again</word>
+	<word orig="tillsammans" soundfile="225.ogg" type="">together</word>
+	<word orig="runt" soundfile="226.ogg" type="">around, round (in shape)</word>
+	<word orig="nästan" soundfile="227.ogg" type="">almost</word>
+	<word orig="lopp" soundfile="228.ogg" type="">lap (in a race)</word>
+	<word orig="förra" soundfile="229.ogg" type="">(the) previous</word>
+	<word orig="året" soundfile="230.ogg" type="">the year</word>
+	<word orig="mål" soundfile="231.ogg" type="">goal, destination</word>
+	<word orig="längre" soundfile="232.ogg" type="">longer</word>
+	<word orig="svårt" soundfile="233.ogg" type="">hard, difficult</word>
+	<word orig="bästa" soundfile="234.ogg" type="">(the) best</word>
+	<word orig="handlar" soundfile="235.ogg" type="">acts, shops, is about, concers</word>
+	<word orig="dagens" soundfile="236.ogg" type="">today's, of the day</word>
+	<word orig="länge" soundfile="237.ogg" type="">long (duration)</word>
+	<word orig="stort" soundfile="238.ogg" type="">big, great, large</word>
+	<word orig="frågan" soundfile="239.ogg" type="">the question</word>
+	<word orig="spelar" soundfile="240.ogg" type="">plays</word>
+	<word orig="enda" soundfile="241.ogg" type="">only</word>
+	<word orig="liv" soundfile="242.ogg" type="">life</word>
+	<word orig="fortfarande" soundfile="243.ogg" type="">still</word>
+	<word orig="medan" soundfile="244.ogg" type="">while</word>
+	<word orig="bakom" soundfile="245.ogg" type="">behind</word>
+	<word orig="haft" soundfile="246.ogg" type="">(have/has) had</word>
+	<word orig="minst" soundfile="247.ogg" type="">least</word>
+	<word orig="berättar" soundfile="248.ogg" type="">tells</word>
+	<word orig="fast" soundfile="249.ogg" type="">stuck, yet</word>
+	<word orig="personer" soundfile="250.ogg" type="">persons</word>
+	<word orig="början" soundfile="251.ogg" type="">beginning</word>
+	<word orig="problem" soundfile="252.ogg" type="">problem, difficulty</word>
+	<word orig="alltså" soundfile="253.ogg" type="">that is</word>
+	<word orig="bort" soundfile="254.ogg" type="">away</word>
+	<word orig="varför" soundfile="255.ogg" type="">why</word>
+	<word orig="anser" soundfile="256.ogg" type="">(in the) opinion of, thinks (that)</word>
+	<word orig="våra" soundfile="257.ogg" type="">our, ours</word>
+	<word orig="företag" soundfile="258.ogg" type="">company, corporation (sing/pl)</word>
+	<word orig="mitt" soundfile="259.ogg" type="">my, mine</word>
+	<word orig="dess" soundfile="260.ogg" type="">it's</word>
+	<word orig="nytt" soundfile="261.ogg" type="">new</word>
+	<word orig="tio" soundfile="262.ogg" type="">ten, 10</word>
+	<word orig="inga" soundfile="263.ogg" type="">none</word>
+	<word orig="fanns" soundfile="264.ogg" type="">existed, were</word>
+	<word orig="egna" soundfile="265.ogg" type="">(one's) own</word>
+	<word orig="utanför" soundfile="266.ogg" type="">outside</word>
+	<word orig="ville" soundfile="267.ogg" type="">wanted (to)</word>
+	<word orig="kr" soundfile="268.ogg" type="">abbr for crowns, SEK</word>
+	<word orig="långt" soundfile="269.ogg" type="">far, long</word>
+	<word orig="framför" soundfile="270.ogg" type="">before, in front of</word>
+	<word orig="båda" soundfile="271.ogg" type="">both</word>
+	<word orig="behöver" soundfile="272.ogg" type="">needs</word>
+	<word orig="par" soundfile="273.ogg" type="">pair</word>
+	<word orig="nej" soundfile="274.ogg" type="">no, negation, negative</word>
+	<word orig="miljarder" soundfile="275.ogg" type="">billions</word>
+	<word orig="största" soundfile="276.ogg" type="">greatest, largest, biggest</word>
+	<word orig="polisen" soundfile="277.ogg" type="">the police</word>
+	<word orig="världen" soundfile="278.ogg" type="">the world</word>
+	<word orig="direkt" soundfile="279.ogg" type="">direct, directly, at once</word>
+	<word orig="folk" soundfile="280.ogg" type="">people, folks (sing/pl)</word>
+	<word orig="borde" soundfile="281.ogg" type="">should</word>
+	<word orig="väg" soundfile="282.ogg" type="">way, road</word>
+	<word orig="innebär" soundfile="283.ogg" type="">means</word>
+	<word orig="sex" soundfile="284.ogg" type="">six, 6, coitus</word>
+	<word orig="klart" soundfile="285.ogg" type="">done, finished, clear</word>
+	<word orig="bör" soundfile="286.ogg" type="">should</word>
+	<word orig="vidare" soundfile="287.ogg" type="">futher, onward</word>
+	<word orig="menar" soundfile="288.ogg" type="">means, intends</word>
+	<word orig="odds" soundfile="289.ogg" type="">odds, chances</word>
+	<word orig="håller" soundfile="290.ogg" type="">holds (onto something/together), keeps, continues (to), (is) in the process (of)</word>
+	<word orig="lätt" soundfile="291.ogg" type="">easy, light</word>
+	<word orig="ytterligare" soundfile="292.ogg" type="">further, additional</word>
+	<word orig="hem" soundfile="293.ogg" type="">home</word>
+	<word orig="gått" soundfile="294.ogg" type="">gone, left</word>
+	<word orig="stockholms" soundfile="295.ogg" type="">(of/belonging to) Stockholm</word>
+	<word orig="kvinnor" soundfile="296.ogg" type="">women</word>
+	<word orig="flesta" soundfile="297.ogg" type="">most</word>
+	<word orig="ja" soundfile="298.ogg" type="">yes, positive</word>
+	<word orig="hand" soundfile="299.ogg" type="">hand</word>
+	<word orig="särskilt" soundfile="300.ogg" type="">specially, especially</word>
+	<word orig="därmed" soundfile="301.ogg" type="">hence, therefore</word>
+	<word orig="cirka" soundfile="302.ogg" type="">circa, about</word>
+	<word orig="tv" soundfile="303.ogg" type="">television</word>
+	<word orig="landet" soundfile="304.ogg" type="">the land/nation, the countryside</word>
+	<word orig="heller" soundfile="305.ogg" type="">or, either</word>
+	<word orig="gången" soundfile="306.ogg" type="">the occasion</word>
+	<word orig="åren" soundfile="307.ogg" type="">the years</word>
+	<word orig="började" soundfile="308.ogg" type="">began</word>
+	<word orig="däremot" soundfile="309.ogg" type="">on the other hand, yet</word>
+	<word orig="sveriges" soundfile="310.ogg" type="">Sweden's</word>
+	<word orig="sett" soundfile="311.ogg" type="">seen, watched</word>
+	<word orig="henne" soundfile="312.ogg" type="">her</word>
+	<word orig="jobb" soundfile="313.ogg" type="">work, job</word>
+	<word orig="kring" soundfile="314.ogg" type="">around</word>
+	<word orig="känner" soundfile="315.ogg" type="">feels</word>
+	<word orig="liten" soundfile="316.ogg" type="">small, little</word>
+	<word orig="beslut" soundfile="317.ogg" type="">decision</word>
+	<word orig="egentligen" soundfile="318.ogg" type="">in actuality</word>
+	<word orig="länder" soundfile="319.ogg" type="">nations, countries</word>
+	<word orig="börjar" soundfile="320.ogg" type="">begins, starts</word>
+	<word orig="politiska" soundfile="321.ogg" type="">political</word>
+	<word orig="ni" soundfile="322.ogg" type="">you (plural)</word>
+	<word orig="väder" soundfile="323.ogg" type="">weather</word>
+	<word orig="hjälp" soundfile="324.ogg" type="">help, assistance</word>
+	<word orig="ordförande" soundfile="325.ogg" type="">chairman</word>
+	<word orig="tredje" soundfile="326.ogg" type="">(the) third</word>
+	<word orig="vilka" soundfile="327.ogg" type="">who, whom, which</word>
+	<word orig="talar" soundfile="328.ogg" type="">speaks, talks</word>
+	<word orig="Europa" soundfile="329.ogg" type="">Europe</word>
+	<word orig="sidan" soundfile="330.ogg" type="">side, flank</word>
+	<word orig="riktigt" soundfile="331.ogg" type="">real</word>
+	<word orig="små" soundfile="332.ogg" type="">small, little</word>
+	<word orig="eu" soundfile="333.ogg" type="">abbr for European Union</word>
+	<word orig="arbete" soundfile="334.ogg" type="">work, job</word>
+	<word orig="vissa" soundfile="335.ogg" type="">some (things/people)</word>
+	<word orig="skriver" soundfile="336.ogg" type="">writes</word>
+	<word orig="såg" soundfile="337.ogg" type="">saw (something/someone)</word>
+	<word orig="slut" soundfile="338.ogg" type="">end</word>
+	<word orig="ibland" soundfile="339.ogg" type="">sometimes, occasionally</word>
+	<word orig="ned" soundfile="340.ogg" type="">down</word>
+	<word orig="fråga" soundfile="341.ogg" type="">question, (to) ask</word>
+	<word orig="sa" soundfile="342.ogg" type="">said</word>
+	<word orig="hålla" soundfile="343.ogg" type="">hold, keep</word>
+	<word orig="unga" soundfile="344.ogg" type="">young, youths</word>
+	<word orig="drygt" soundfile="345.ogg" type="">roughly (in measurement)</word>
+	<word orig="emot" soundfile="346.ogg" type="">against, opposed (to)</word>
+	<word orig="musik" soundfile="347.ogg" type="">music</word>
+	<word orig="nära" soundfile="348.ogg" type="">close, near</word>
+	<word orig="tyskland" soundfile="349.ogg" type="">Germany</word>
+	<word orig="gånger" soundfile="350.ogg" type="">times (used for counting)</word>
+	<word orig="gav" soundfile="351.ogg" type="">gave</word>
+	<word orig="fel" soundfile="352.ogg" type="">wrong, error</word>
+	<word orig="tagit" soundfile="353.ogg" type="">taken</word>
+	<word orig="nr" soundfile="354.ogg" type="">abbr for number</word>
+	<word orig="ekonomiska" soundfile="355.ogg" type="">economic</word>
+	<word orig="namn" soundfile="356.ogg" type="">name</word>
+	<word orig="ekonyheter" soundfile="357.ogg" type="">economics news</word>
+	<word orig="steg" soundfile="358.ogg" type="">step(s), rose (up)</word>
+	<word orig="kommit" soundfile="359.ogg" type="">(has) come/arrived</word>
+	<word orig="helst" soundfile="360.ogg" type="">rather</word>
+	<word orig="ihop" soundfile="361.ogg" type="">together</word>
+	<word orig="liksom" soundfile="362.ogg" type="">like, as</word>
+	<word orig="amerikanska" soundfile="363.ogg" type="">american (language/things)</word>
+	<word orig="sådan" soundfile="364.ogg" type="">such</word>
+	<word orig="förslag" soundfile="365.ogg" type="">suggestion</word>
+	<word orig="vilken" soundfile="366.ogg" type="">which</word>
+	<word orig="livet" soundfile="367.ogg" type="">the life</word>
+	<word orig="dagar" soundfile="368.ogg" type="">days</word>
+	<word orig="vann" soundfile="369.ogg" type="">(has) won</word>
+	<word orig="års" soundfile="370.ogg" type="">year's</word>
+	<word orig="spela" soundfile="371.ogg" type="">play</word>
+	<word orig="säkert" soundfile="372.ogg" type="">sure</word>
+	<word orig="varandra" soundfile="373.ogg" type="">each other</word>
+	<word orig="ganska" soundfile="374.ogg" type="">kind of, rather</word>
+	<word orig="veckan" soundfile="375.ogg" type="">the week</word>
+	<word orig="vem" soundfile="376.ogg" type="">who</word>
+	<word orig="ens" soundfile="377.ogg" type="">if (even), one's</word>
+	<word orig="visst" soundfile="378.ogg" type="">sure, really/truly, certain</word>
+	<word orig="lång" soundfile="379.ogg" type="">long, tall</word>
+	<word orig="all" soundfile="380.ogg" type="">all</word>
+	<word orig="regi" soundfile="381.ogg" type="">direction</word>
+	<word orig="hus" soundfile="382.ogg" type="">house</word>
+	<word orig="sitter" soundfile="383.ogg" type="">sits</word>
+	<word orig="form" soundfile="384.ogg" type="">form, shape</word>
+	<word orig="lilla" soundfile="385.ogg" type="">little</word>
+	<word orig="barnen" soundfile="386.ogg" type="">the children</word>
+	<word orig="snabbt" soundfile="387.ogg" type="">fast, speedily</word>
+	<word orig="män" soundfile="388.ogg" type="">males, men</word>
+	<word orig="grund" soundfile="389.ogg" type="">ground, shallow, basic</word>
+	<word orig="hemma" soundfile="390.ogg" type="">(at) home</word>
+	<word orig="snart" soundfile="391.ogg" type="">soon</word>
+	<word orig="möjligt" soundfile="392.ogg" type="">possible</word>
+	<word orig="låg" soundfile="393.ogg" type="">lay (down), short, low</word>
+	<word orig="dn" soundfile="394.ogg" type="">Dagens Nyheter - a swedish newspaper</word>
+	<word orig="klara" soundfile="395.ogg" type="">clear, ready</word>
+	<word orig="frågor" soundfile="396.ogg" type="">questions</word>
+	<word orig="verkligen" soundfile="397.ogg" type="">really, truly</word>
+	<word orig="precis" soundfile="398.ogg" type="">precise[ly], exact[tly]</word>
+	<word orig="amerikansk" soundfile="399.ogg" type="">american</word>
+	<word orig="publik" soundfile="400.ogg" type="">public, general, audience</word>
+	<word orig="skolan" soundfile="401.ogg" type="">the school</word>
+	<word orig="stöd" soundfile="402.ogg" type="">support</word>
+	<word orig="internationella" soundfile="403.ogg" type="">(the) international</word>
+	<word orig="delar" soundfile="404.ogg" type="">parts, share[s]</word>
+	<word orig="hög" soundfile="405.ogg" type="">high, tall</word>
+	<word orig="film" soundfile="406.ogg" type="">movie, film</word>
+	<word orig="bo" soundfile="407.ogg" type="">live (in a house), nest (of animal)</word>
+	<word orig="faktiskt" soundfile="408.ogg" type="">actually</word>
+	<word orig="land" soundfile="409.ogg" type="">land, nation, country</word>
+	<word orig="gott" soundfile="410.ogg" type="">good, delicious</word>
+	<word orig="gärna" soundfile="411.ogg" type="">gladly</word>
+	<word orig="högre" soundfile="412.ogg" type="">higher, taller</word>
+	<word orig="vårt" soundfile="413.ogg" type="">our[s]</word>
+	<word orig="god" soundfile="414.ogg" type="">good, well, delicious</word>
+	<word orig="dagen" soundfile="415.ogg" type="">(the) day</word>
+	<word orig="övriga" soundfile="416.ogg" type="">miscellaneous, (the) rest</word>
+	<word orig="betala" soundfile="417.ogg" type="">(to) pay</word>
+	<word orig="lag" soundfile="418.ogg" type="">law, team</word>
+	<word orig="björn" soundfile="419.ogg" type="">bear</word>
+	<word orig="slutet" soundfile="420.ogg" type="">the end</word>
+	<word orig="verkar" soundfile="421.ogg" type="">seems (to), works (to)</word>
+	<word orig="sagt" soundfile="422.ogg" type="">said</word>
+	<word orig="krav" soundfile="423.ogg" type="">demand</word>
+	<word orig="stod" soundfile="424.ogg" type="">stood</word>
+	<word orig="omkring" soundfile="425.ogg" type="">around</word>
+	<word orig="viktigt" soundfile="426.ogg" type="">important</word>
+	<word orig="ord" soundfile="427.ogg" type="">word</word>
+	<word orig="hoppas" soundfile="428.ogg" type="">(to) hope, hopes (to)</word>
+	<word orig="kort" soundfile="429.ogg" type="">short, low</word>
+	<word orig="hittills" soundfile="430.ogg" type="">thus far</word>
+	<word orig="minuter" soundfile="431.ogg" type="">minutes</word>
+	<word orig="visa" soundfile="432.ogg" type="">(to) show</word>
+	<word orig="eget" soundfile="433.ogg" type="">own</word>
+	<word orig="sådana" soundfile="434.ogg" type="">such</word>
+	<word orig="tänker" soundfile="435.ogg" type="">thinks</word>
+	<word orig="frankrike" soundfile="436.ogg" type="">France (lit. "kingdom of Franks")</word>
+	<word orig="sju" soundfile="437.ogg" type="">seven, 7</word>
+	<word orig="matchen" soundfile="438.ogg" type="">the game, the match</word>
+	<word orig="tycks" soundfile="439.ogg" type="">seems, thinks (that)</word>
+	<word orig="naturligtvis" soundfile="440.ogg" type="">naturally, certainly</word>
+	<word orig="bok" soundfile="441.ogg" type="">book</word>
+	<word orig="endast" soundfile="442.ogg" type="">only</word>
+	<word orig="annars" soundfile="443.ogg" type="">otherwise</word>
+	<word orig="antal" soundfile="444.ogg" type="">amount</word>
+	<word orig="enkelt" soundfile="445.ogg" type="">easy</word>
+	<word orig="malmö" soundfile="446.ogg" type="">a swedish city</word>
+	<word orig="försöker" soundfile="447.ogg" type="">tries (to), attempts (to)</word>
+	<word orig="ryssland" soundfile="448.ogg" type="">Russia (lit. "land of Ryss'/Rus')</word>
+	<word orig="tal" soundfile="449.ogg" type="">speech</word>
+	<word orig="mannen" soundfile="450.ogg" type="">the man</word>
+	<word orig="totalt" soundfile="451.ogg" type="">total, totally</word>
+	<word orig="ute" soundfile="452.ogg" type="">outside</word>
+	<word orig="visade" soundfile="453.ogg" type="">showed, shown</word>
+	<word orig="låter" soundfile="454.ogg" type="">sounds (like), makes noise</word>
+	<word orig="anställda" soundfile="455.ogg" type="">employees</word>
+	<word orig="vägen" soundfile="456.ogg" type="">the road</word>
+	<word orig="spel" soundfile="457.ogg" type="">game</word>
+	<word orig="väldigt" soundfile="458.ogg" type="">very, quite</word>
+	<word orig="norge" soundfile="459.ogg" type="">Norway</word>
+	<word orig="stå" soundfile="460.ogg" type="">stand</word>
+	<word orig="åtta" soundfile="461.ogg" type="">eight, 8</word>
+	<word orig="årets" soundfile="462.ogg" type="">the year's</word>
+	<word orig="via" soundfile="463.ogg" type="">by, through, (same as english/latin via)</word>
+	<word orig="satt" soundfile="464.ogg" type="">sat (down/on a chair)</word>
+	<word orig="roll" soundfile="465.ogg" type="">role</word>
+	<word orig="brukar" soundfile="466.ogg" type="">usually (does something), uses</word>
+	<word orig="nämligen" soundfile="467.ogg" type="">namely, that is</word>
+	<word orig="fortsätter" soundfile="468.ogg" type="">continues, goes on</word>
+	<word orig="ungefär" soundfile="469.ogg" type="">kind of, about</word>
+	<word orig="framtiden" soundfile="470.ogg" type="">the future</word>
+	<word orig="bäst" soundfile="471.ogg" type="">best</word>
+	<word orig="händer" soundfile="472.ogg" type="">happens</word>
+	<word orig="bor" soundfile="473.ogg" type="">lives</word>
+	<word orig="hårt" soundfile="474.ogg" type="">hard, tough</word>
+	<word orig="spelare" soundfile="475.ogg" type="">players</word>
+	<word orig="främst" soundfile="476.ogg" type="">foremost, primarily, best</word>
+	<word orig="kallade" soundfile="477.ogg" type="">called</word>
+	<word orig="rad" soundfile="478.ogg" type="">row</word>
+	<word orig="förstås" soundfile="479.ogg" type="">of course, (is) understood</word>
+	<word orig="världens" soundfile="480.ogg" type="">the world's</word>
+	<word orig="höga" soundfile="481.ogg" type="">high, tall</word>
+	<word orig="månader" soundfile="482.ogg" type="">months</word>
+	<word orig="kväll" soundfile="483.ogg" type="">evening</word>
+	<word orig="familjen" soundfile="484.ogg" type="">the family</word>
+	<word orig="igenom" soundfile="485.ogg" type="">through</word>
+	<word orig="höll" soundfile="486.ogg" type="">held</word>
+	<word orig="känns" soundfile="487.ogg" type="">feels</word>
+	<word orig="staten" soundfile="488.ogg" type="">the state</word>
+	<word orig="poäng" soundfile="489.ogg" type="">points, score</word>
+	<word orig="antalet" soundfile="490.ogg" type="">the number (of), the amount</word>
+	<word orig="skapa" soundfile="491.ogg" type="">create, make</word>
+	<word orig="historia" soundfile="492.ogg" type="">history</word>
+	<word orig="tänka" soundfile="493.ogg" type="">think</word>
+	<word orig="vd" soundfile="494.ogg" type="">CEO</word>
+	<word orig="heter" soundfile="495.ogg" type="">(is) named, (is) called</word>
+	<word orig="alls" soundfile="496.ogg" type="">at all</word>
+	<word orig="här" soundfile="497.ogg" type="">hear</word>
+	<word orig="köpa" soundfile="498.ogg" type="">(to) buy</word>
+	<word orig="div" soundfile="499.ogg" type="">abbr for diverse</word>
+	<word orig="svt" soundfile="500.ogg" type="">Television of Sweden (Sveriges television)</word>
+	<word orig="os" soundfile="501.ogg" type="">the Olympics</word>
+	<word orig="företaget" soundfile="502.ogg" type="">the company, the corporation</word>
+	<word orig="samhället" soundfile="503.ogg" type="">the society</word>
+	<word orig="sida" soundfile="504.ogg" type="">page, flank, side (of a thing/in a conflict)</word>
+	<word orig="sådant" soundfile="505.ogg" type="">such</word>
+	<word orig="mina" soundfile="506.ogg" type="">my, mine</word>
+	<word orig="extra" soundfile="507.ogg" type="">extras, additional</word>
+	<word orig="kräver" soundfile="508.ogg" type="">demands</word>
+	<word orig="goda" soundfile="509.ogg" type="">good, well, delicious (plural)</word>
+	<word orig="långa" soundfile="510.ogg" type="">long, tall (plural)</word>
+	<word orig="hitta" soundfile="511.ogg" type="">find</word>
+	<word orig="svd" soundfile="512.ogg" type="">Svenska Dagbladet, a swedish newspaper</word>
+	<word orig="åtminstone" soundfile="513.ogg" type="">at least</word>
+	<word orig="numera" soundfile="514.ogg" type="">nowadays, currently</word>
+	<word orig="timmar" soundfile="515.ogg" type="">hours</word>
+	<word orig="vecka" soundfile="516.ogg" type="">week</word>
+	<word orig="knappast" soundfile="517.ogg" type="">hardly</word>
+	<word orig="dig" soundfile="518.ogg" type="">you (singular)</word>
+	<word orig="skrev" soundfile="519.ogg" type="">wrote</word>
+	<word orig="vore" soundfile="520.ogg" type="">would</word>
+	<word orig="nyheter" soundfile="521.ogg" type="">news</word>
+	<word orig="lär" soundfile="522.ogg" type="">learns, probably</word>
+	<word orig="veta" soundfile="523.ogg" type="">know</word>
+	<word orig="betyder" soundfile="524.ogg" type="">means</word>
+	<word orig="grupp" soundfile="525.ogg" type="">group</word>
+	<word orig="lever" soundfile="526.ogg" type="">lives, liver</word>
+	<word orig="spelade" soundfile="527.ogg" type="">played (a game/instrument)</word>
+	<word orig="betydligt" soundfile="528.ogg" type="">considerably</word>
+	<word orig="gammal" soundfile="529.ogg" type="">old</word>
+	<word orig="arbetar" soundfile="530.ogg" type="">works, labors</word>
+	<word orig="tyska" soundfile="531.ogg" type="">german</word>
+	<word orig="äldre" soundfile="532.ogg" type="">older, older (people)</word>
+	<word orig="dels" soundfile="533.ogg" type="">partially</word>
+	<word orig="person" soundfile="534.ogg" type="">person, individual</word>
+	<word orig="laget" soundfile="535.ogg" type="">the team</word>
+	<word orig="chef" soundfile="536.ogg" type="">chief, boss, leader</word>
+	<word orig="alldeles" soundfile="537.ogg" type="">completely</word>
+	<word orig="kommunen" soundfile="538.ogg" type="">the commune, a regional political division of Sweden</word>
+	<word orig="stark" soundfile="539.ogg" type="">strong</word>
+	<word orig="valet" soundfile="540.ogg" type="">the choice, the decision, the election (of government)</word>
+	<word orig="ifrån" soundfile="541.ogg" type="">from (a place/direction)</word>
+	<word orig="leder" soundfile="542.ogg" type="">leads, conducts (electricity)</word>
+	<word orig="kvinna" soundfile="543.ogg" type="">woman</word>
+	<word orig="ökar" soundfile="544.ogg" type="">increases</word>
+	<word orig="emu" soundfile="545.ogg" type="">European Monetary Fund</word>
+	<word orig="hävdar" soundfile="546.ogg" type="">holds (that), means (that)</word>
+	<word orig="lägga" soundfile="547.ogg" type="">put (something somewhere)</word>
+	<word orig="skäl" soundfile="548.ogg" type="">reason[s] (sing/pl)</word>
+	<word orig="låta" soundfile="549.ogg" type="">let (someone do something), sound (like)</word>
+	<word orig="ansvar" soundfile="550.ogg" type="">responsibility</word>
+	<word orig="sen" soundfile="551.ogg" type="">then, later</word>
+	<word orig="visserligen" soundfile="552.ogg" type="">although</word>
+	<word orig="politiker" soundfile="553.ogg" type="">politician[s] (sing/pl)</word>
+	<word orig="använda" soundfile="554.ogg" type="">use</word>
+	<word orig="franska" soundfile="555.ogg" type="">french (language)</word>
+	<word orig="rapport" soundfile="556.ogg" type="">report, scientific study</word>
+	<word orig="mera" soundfile="557.ogg" type="">more</word>
+	<word orig="veckor" soundfile="558.ogg" type="">weeks</word>
+	<word orig="såväl" soundfile="559.ogg" type="">as well, also</word>
+	<word orig="därefter" soundfile="560.ogg" type="">thereafter</word>
+	<word orig="viss" soundfile="561.ogg" type="">some, slight</word>
+	<word orig="landets" soundfile="562.ogg" type="">the country's, the nation's</word>
+	<word orig="teater" soundfile="563.ogg" type="">theatre</word>
+	<word orig="ungdomar" soundfile="564.ogg" type="">youths</word>
+	<word orig="plötsligt" soundfile="565.ogg" type="">suddenly</word>
+	<word orig="ryska" soundfile="566.ogg" type="">russian (language)</word>
+	<word orig="kunnat" soundfile="567.ogg" type="">could, been able (to)</word>
+	<word orig="nyligen" soundfile="568.ogg" type="">recently</word>
+	<word orig="möjlighet" soundfile="569.ogg" type="">possibility</word>
+	<word orig="rollerna" soundfile="570.ogg" type="">the roles</word>
+	<word orig="morgon" soundfile="571.ogg" type="">morning</word>
+	<word orig="ena" soundfile="572.ogg" type="">unite</word>
+	<word orig="mars" soundfile="573.ogg" type="">the month of march, the planet Mars</word>
+	<word orig="samband" soundfile="574.ogg" type="">connection, relation</word>
+	<word orig="öka" soundfile="575.ogg" type="">increase</word>
+	<word orig="bygga" soundfile="576.ogg" type="">build</word>
+	<word orig="litet" soundfile="577.ogg" type="">small, little</word>
+	<word orig="börja" soundfile="578.ogg" type="">begin</word>
+	<word orig="vänner" soundfile="579.ogg" type="">friends</word>
+	<word orig="AIK" soundfile="580.ogg" type="">Allmänna Idrottsklubben, a football team</word>
+	<word orig="marknaden" soundfile="581.ogg" type="">the market</word>
+	<word orig="behövs" soundfile="582.ogg" type="">needed</word>
+	<word orig="staden" soundfile="583.ogg" type="">the city, the town</word>
+	<word orig="högsta" soundfile="584.ogg" type="">highest, tallest</word>
+	<word orig="ökat" soundfile="585.ogg" type="">increased</word>
+	<word orig="utveckling" soundfile="586.ogg" type="">development</word>
+	<word orig="tala" soundfile="587.ogg" type="">speak, (to) talk</word>
+	<word orig="perioden" soundfile="588.ogg" type="">the period (of time)</word>
+	<word orig="ställer" soundfile="589.ogg" type="">places/puts (something somewhere)</word>
+	<word orig="försöka" soundfile="590.ogg" type="">(to) try, (to) attempt</word>
+	<word orig="starkt" soundfile="591.ogg" type="">strongly</word>
+	<word orig="socialdemokraterna" soundfile="592.ogg" type="">the Social Democrats, a political party in Sweden</word>
+	<word orig="exempelvis" soundfile="593.ogg" type="">for example</word>
+	<word orig="håll" soundfile="594.ogg" type="">direction, (to) hold</word>
+	<word orig="resultatet" soundfile="595.ogg" type="">the result</word>
+	<word orig="sätta" soundfile="596.ogg" type="">(to) put, (to) sit (down)</word>
+	<word orig="dit" soundfile="597.ogg" type="">there, that (way)</word>
+	<word orig="arbetet" soundfile="598.ogg" type="">the work</word>
+	<word orig="verksamhet" soundfile="599.ogg" type="">business, enterprise, area of work</word>
+	<word orig="lämna" soundfile="600.ogg" type="">leave</word>
+	<word orig="italien" soundfile="601.ogg" type="">Italy</word>
+	<word orig="bild" soundfile="602.ogg" type="">picture</word>
+	<word orig="vars" soundfile="603.ogg" type="">whose, which</word>
+	<word orig="partiet" soundfile="604.ogg" type="">the (political) party</word>
+	<word orig="intresse" soundfile="605.ogg" type="">interest</word>
+	<word orig="samarbete" soundfile="606.ogg" type="">cooperation</word>
+	<word orig="närmare" soundfile="607.ogg" type="">closer</word>
+	<word orig="januari" soundfile="608.ogg" type="">january</word>
+	<word orig="uppgifter" soundfile="609.ogg" type="">tasks, information</word>
+	<word orig="sak" soundfile="610.ogg" type="">thing, object</word>
+	<word orig="fullt" soundfile="611.ogg" type="">fully, wholly, totally</word>
+	<word orig="pengarna" soundfile="612.ogg" type="">the money</word>
+	<word orig="resultat" soundfile="613.ogg" type="">result</word>
+	<word orig="boken" soundfile="614.ogg" type="">the book</word>
+	<word orig="södra" soundfile="615.ogg" type="">the southern</word>
+	<word orig="juni" soundfile="616.ogg" type="">june</word>
+	<word orig="fortsätta" soundfile="617.ogg" type="">continue</word>
+	<word orig="dra" soundfile="618.ogg" type="">pull, (slang) leave</word>
+	<word orig="ingenting" soundfile="619.ogg" type="">nothing</word>
+	<word orig="samtliga" soundfile="620.ogg" type="">each and every</word>
+	<word orig="beror" soundfile="621.ogg" type="">depends (on)</word>
+	<word orig="värld" soundfile="622.ogg" type="">world</word>
+	<word orig="alltför" soundfile="623.ogg" type="">much too, all too</word>
+	<word orig="danmark" soundfile="624.ogg" type="">Denmark</word>
+	<word orig="försök" soundfile="625.ogg" type="">attempt, try</word>
+	<word orig="rum" soundfile="626.ogg" type="">room</word>
+	<word orig="tur" soundfile="627.ogg" type="">luck</word>
+	<word orig="politik" soundfile="628.ogg" type="">politics</word>
+	<word orig="fri" soundfile="629.ogg" type="">free</word>
+	<word orig="förklarar" soundfile="630.ogg" type="">explains, is explaining</word>
+	<word orig="bilder" soundfile="631.ogg" type="">pictures, images</word>
+	<word orig="svar" soundfile="632.ogg" type="">answer, response</word>
+	<word orig="öppna" soundfile="633.ogg" type="">(to) open, opened</word>
+	<word orig="död" soundfile="634.ogg" type="">dead</word>
+	<word orig="tro" soundfile="635.ogg" type="">believe, faith</word>
+	<word orig="maj" soundfile="636.ogg" type="">month of may</word>
+	<word orig="tyckte" soundfile="637.ogg" type="">thought, believed</word>
+	<word orig="vatten" soundfile="638.ogg" type="">water</word>
+	<word orig="saker" soundfile="639.ogg" type="">things</word>
+	<word orig="val" soundfile="640.ogg" type="">choice, decision, election, whale</word>
+	<word orig="enbart" soundfile="641.ogg" type="">only</word>
+	<word orig="inne" soundfile="642.ogg" type="">inside</word>
+	<word orig="utbildning" soundfile="643.ogg" type="">education</word>
+	<word orig="arbeta" soundfile="644.ogg" type="">(to) work</word>
+	<word orig="vilja" soundfile="645.ogg" type="">will</word>
+	<word orig="centrum" soundfile="646.ogg" type="">center</word>
+	<word orig="europeiska" soundfile="647.ogg" type="">european</word>
+	<word orig="vinna" soundfile="648.ogg" type="">(to) win</word>
+	<word orig="ökade" soundfile="649.ogg" type="">increased</word>
+	<word orig="leva" soundfile="650.ogg" type="">(to) live</word>
+	<word orig="närmaste" soundfile="651.ogg" type="">closest</word>
+	<word orig="ledningen" soundfile="652.ogg" type="">the leadership</word>
+	<word orig="tidigt" soundfile="653.ogg" type="">early</word>
+	<word orig="rör" soundfile="654.ogg" type="">concerns (something), pipes, plumbing</word>
+	<word orig="sker" soundfile="655.ogg" type="">happens</word>
+	<word orig="bilar" soundfile="656.ogg" type="">cars</word>
+	<word orig="bolaget" soundfile="657.ogg" type="">the company, the corporation</word>
+	<word orig="arbetslösheten" soundfile="658.ogg" type="">the unemployment</word>
+	<word orig="senast" soundfile="659.ogg" type="">latest</word>
+	<word orig="högt" soundfile="660.ogg" type="">high</word>
+	<word orig="jämfört" soundfile="661.ogg" type="">compared (to)</word>
+	<word orig="hel" soundfile="662.ogg" type="">whole, full, entire</word>
+	<word orig="skriva" soundfile="663.ogg" type="">(to) write</word>
+	<word orig="viktiga" soundfile="664.ogg" type="">important</word>
+	<word orig="övrigt" soundfile="665.ogg" type="">miscellaneous, other</word>
+	<word orig="känna" soundfile="666.ogg" type="">feel</word>
+	<word orig="å" soundfile="667.ogg" type="">small slow river</word>
+	<word orig="ö" soundfile="668.ogg" type="">island</word>
+	<word orig="ingår" soundfile="669.ogg" type="">included (in)</word>
+	<word orig="match" soundfile="670.ogg" type="">game, match</word>
+	<word orig="delen" soundfile="671.ogg" type="">the part</word>
+	<word orig="slags" soundfile="672.ogg" type="">sort (of), type (of)</word>
+	<word orig="ledning" soundfile="673.ogg" type="">(a) leadership</word>
+	<word orig="drar" soundfile="674.ogg" type="">pulls</word>
+	<word orig="konstaterar" soundfile="675.ogg" type="">asserts (that), notes (that)</word>
+	<word orig="bil" soundfile="676.ogg" type="">car</word>
+	<word orig="finnas" soundfile="677.ogg" type="">exists, is</word>
+	<word orig="föräldrar" soundfile="678.ogg" type="">parents</word>
+	<word orig="bilen" soundfile="679.ogg" type="">the car</word>
+	<word orig="engelska" soundfile="680.ogg" type="">english</word>
+	<word orig="publiken" soundfile="681.ogg" type="">the audience</word>
+	<word orig="målet" soundfile="682.ogg" type="">the goal, the destination</word>
+	<word orig="klar" soundfile="683.ogg" type="">ready, finished, done, clear</word>
+	<word orig="slog" soundfile="684.ogg" type="">hit, punched, struck</word>
+	<word orig="räknar" soundfile="685.ogg" type="">counts</word>
+	<word orig="dom" soundfile="686.ogg" type="">them, they</word>
+	<word orig="knappt" soundfile="687.ogg" type="">barely</word>
+	<word orig="krävs" soundfile="688.ogg" type="">demands, needs</word>
+	<word orig="kostar" soundfile="689.ogg" type="">costs</word>
+	<word orig="lägre" soundfile="690.ogg" type="">lower</word>
+	<word orig="filmen" soundfile="691.ogg" type="">the movie, the film</word>
+	<word orig="viktig" soundfile="692.ogg" type="">important</word>
+	<word orig="klockan" soundfile="693.ogg" type="">the clock</word>
+	<word orig="emellertid" soundfile="694.ogg" type="">while, although</word>
+	<word orig="kritik" soundfile="695.ogg" type="">criticism</word>
+	<word orig="ställa" soundfile="696.ogg" type="">(to) put (something somewhere)</word>
+	<word orig="slår" soundfile="697.ogg" type="">hits, punches, strikes</word>
+	<word orig="låt" soundfile="698.ogg" type="">let, song</word>
+	<word orig="sälja" soundfile="699.ogg" type="">sell</word>
+	<word orig="öppet" soundfile="700.ogg" type="">open</word>
+	<word orig="huset" soundfile="701.ogg" type="">the house</word>
+	<word orig="lagen" soundfile="702.ogg" type="">the law</word>
+	<word orig="råd" soundfile="703.ogg" type="">advice, council</word>
+	<word orig="tas" soundfile="704.ogg" type="">takes, gets</word>
+	<word orig="kommun" soundfile="705.ogg" type="">commune, a regional administrative division</word>
+	<word orig="norska" soundfile="706.ogg" type="">norweigian</word>
+	<word orig="uppgift" soundfile="707.ogg" type="">task</word>
+	<word orig="möjligheter" soundfile="708.ogg" type="">possibilities</word>
+	<word orig="starka" soundfile="709.ogg" type="">strong</word>
+	<word orig="hälften" soundfile="710.ogg" type="">half</word>
+	<word orig="allra" soundfile="711.ogg" type="">(one's) very (best something)</word>
+	<word orig="djurgården" soundfile="712.ogg" type="">a district of Stockholm, a football team also known as DIF</word>
+	<word orig="medlemmar" soundfile="713.ogg" type="">members</word>
+	<word orig="beslutet" soundfile="714.ogg" type="">the decision, the choice</word>
+	<word orig="mamma" soundfile="715.ogg" type="">mother (informal)</word>
+	<word orig="stad" soundfile="716.ogg" type="">city</word>
+	<word orig="slå" soundfile="717.ogg" type="">hit, punch, strike</word>
+	<word orig="området" soundfile="718.ogg" type="">the area</word>
+	<word orig="förutom" soundfile="719.ogg" type="">except</word>
+	<word orig="familj" soundfile="720.ogg" type="">family</word>
+	<word orig="debatt" soundfile="721.ogg" type="">debate</word>
+	<word orig="väntar" soundfile="722.ogg" type="">awaits, waits</word>
+	<word orig="behov" soundfile="723.ogg" type="">need</word>
+	<word orig="kraft" soundfile="724.ogg" type="">power</word>
+	<word orig="utvecklingen" soundfile="725.ogg" type="">the development</word>
+	<word orig="avgörande" soundfile="726.ogg" type="">decisive</word>
+	<word orig="hösten" soundfile="727.ogg" type="">the autumn, the fall</word>
+	<word orig="anledning" soundfile="728.ogg" type="">reason</word>
+	<word orig="vanliga" soundfile="729.ogg" type="">usual</word>
+	<word orig="problemet" soundfile="730.ogg" type="">the problem</word>
+	<word orig="välja" soundfile="731.ogg" type="">(to) choose</word>
+	<word orig="trodde" soundfile="732.ogg" type="">believed, thought</word>
+	<word orig="full" soundfile="733.ogg" type="">full, drunk</word>
+	<word orig="Volvo" soundfile="734.ogg" type="">a swedish brand of cars</word>
+	<word orig="förslaget" soundfile="735.ogg" type="">the suggestion, the proposal</word>
+	<word orig="lokala" soundfile="736.ogg" type="">local</word>
+	<word orig="läsa" soundfile="737.ogg" type="">read</word>
+	<word orig="brev" soundfile="738.ogg" type="">letter, mail</word>
+	<word orig="snarare" soundfile="739.ogg" type="">rather</word>
+	<word orig="ekonomi" soundfile="740.ogg" type="">economy</word>
+	<word orig="nio" soundfile="741.ogg" type="">nine, 9</word>
+	<word orig="struken" soundfile="742.ogg" type="">erased, ironed</word>
+	<word orig="aktier" soundfile="743.ogg" type="">stocks</word>
+	<word orig="mat" soundfile="744.ogg" type="">food</word>
+	<word orig="riksdagen" soundfile="745.ogg" type="">the parliament (of Sweden)</word>
+	<word orig="varken" soundfile="746.ogg" type="">neither, nor</word>
+	<word orig="svarar" soundfile="747.ogg" type="">answers, responds</word>
+	<word orig="undan" soundfile="748.ogg" type="">away</word>
+	<word orig="elever" soundfile="749.ogg" type="">pupils/students (of high school or lower levels)</word>
+	<word orig="dags" soundfile="750.ogg" type="">time (for)</word>
+	<word orig="fjol" soundfile="751.ogg" type="">last year</word>
+	<word orig="offentliga" soundfile="752.ogg" type="">public</word>
+	<word orig="räcker" soundfile="753.ogg" type="">(is) enough, covers (something)</word>
+	<word orig="betydelse" soundfile="754.ogg" type="">meaning</word>
+	<word orig="vita" soundfile="755.ogg" type="">white</word>
+	<word orig="månad" soundfile="756.ogg" type="">month</word>
+	<word orig="uppdrag" soundfile="757.ogg" type="">mission</word>
+	<word orig="åka" soundfile="758.ogg" type="">go (by vehicle)</word>
+	<word orig="borta" soundfile="759.ogg" type="">away, gone</word>
+	<word orig="ton" soundfile="760.ogg" type="">tone, metric tonne (of weight)</word>
+	<word orig="tag" soundfile="761.ogg" type="">take, get, period of time</word>
+	<word orig="rent" soundfile="762.ogg" type="">clean, clear[ly]</word>
+	<word orig="föll" soundfile="763.ogg" type="">fell</word>
+	<word orig="förr" soundfile="764.ogg" type="">earlier, in the past</word>
+	<word orig="kontakt" soundfile="765.ogg" type="">contact</word>
+	<word orig="tills" soundfile="766.ogg" type="">until</word>
+	<word orig="regeringens" soundfile="767.ogg" type="">the government's</word>
+	<word orig="augusti" soundfile="768.ogg" type="">august</word>
+	<word orig="fallet" soundfile="769.ogg" type="">the fall, the case</word>
+	<word orig="lägger" soundfile="770.ogg" type="">puts</word>
+	<word orig="lära" soundfile="771.ogg" type="">(to) learn</word>
+	<word orig="verk" soundfile="772.ogg" type="">work (of something/someone), authority</word>
+	<word orig="böcker" soundfile="773.ogg" type="">books</word>
+	<word orig="ställning" soundfile="774.ogg" type="">position, status</word>
+	<word orig="spelas" soundfile="775.ogg" type="">(is) played</word>
+	<word orig="sommaren" soundfile="776.ogg" type="">the summer</word>
+	<word orig="norra" soundfile="777.ogg" type="">the northern</word>
+	<word orig="kör" soundfile="778.ogg" type="">drives</word>
+	<word orig="tvingas" soundfile="779.ogg" type="">(is) forced (to do something)</word>
+	<word orig="fungerar" soundfile="780.ogg" type="">works (like), functions (like)</word>
+	<word orig="lärare" soundfile="781.ogg" type="">teacher[s]</word>
+	<word orig="liknande" soundfile="782.ogg" type="">similar</word>
+	<word orig="seger" soundfile="783.ogg" type="">victory</word>
+	<word orig="brott" soundfile="784.ogg" type="">crime</word>
+	<word orig="kallas" soundfile="785.ogg" type="">called, summoned</word>
+	<word orig="minska" soundfile="786.ogg" type="">decrease</word>
+	<word orig="saknar" soundfile="787.ogg" type="">misses</word>
+	<word orig="vanligt" soundfile="788.ogg" type="">usual</word>
+	<word orig="resa" soundfile="789.ogg" type="">(a) journey, (to) travel</word>
+	<word orig="svarta" soundfile="790.ogg" type="">black</word>
+	<word orig="universitet" soundfile="791.ogg" type="">university, college</word>
+	<word orig="nivå" soundfile="792.ogg" type="">level</word>
+	<word orig="tanke" soundfile="793.ogg" type="">(a) thought</word>
+	<word orig="ständigt" soundfile="794.ogg" type="">always, all the time</word>
+	<word orig="vare" soundfile="795.ogg" type="">(thanks) to</word>
+	<word orig="privata" soundfile="796.ogg" type="">private</word>
+	<word orig="bygger" soundfile="797.ogg" type="">builds</word>
+	<word orig="chans" soundfile="798.ogg" type="">chance</word>
+	<word orig="söker" soundfile="799.ogg" type="">seeks, searches</word>
+	<word orig="sätter" soundfile="800.ogg" type="">puts</word>
+	<word orig="förstå" soundfile="801.ogg" type="">understand</word>
+	<word orig="slag" soundfile="802.ogg" type="">type, sort, punch</word>
+	<word orig="viktigaste" soundfile="803.ogg" type="">the most important</word>
+	<word orig="följer" soundfile="804.ogg" type="">follows</word>
+	<word orig="kyrkan" soundfile="805.ogg" type="">the church, the church of Sweden</word>
+	<word orig="kände" soundfile="806.ogg" type="">felt, knew</word>
+	<word orig="ledare" soundfile="807.ogg" type="">leader</word>
+	<word orig="stan" soundfile="808.ogg" type="">(slang) the city, abbr for "staden"</word>
+	<word orig="priset" soundfile="809.ogg" type="">the prize, the price, the cost</word>
+	<word orig="projekt" soundfile="810.ogg" type="">project</word>
+	<word orig="svenskar" soundfile="811.ogg" type="">swedish people</word>
+	<word orig="tidningen" soundfile="812.ogg" type="">the newspaper</word>
+	<word orig="nuvarande" soundfile="813.ogg" type="">current</word>
+	<word orig="strax" soundfile="814.ogg" type="">soon</word>
+	<word orig="uppsala" soundfile="815.ogg" type="">a city in Sweden</word>
+	<word orig="visat" soundfile="816.ogg" type="">shown, displayed</word>
+	<word orig="sent" soundfile="817.ogg" type="">late</word>
+	<word orig="läser" soundfile="818.ogg" type="">reads</word>
+	<word orig="lyckades" soundfile="819.ogg" type="">succeeded</word>
+	<word orig="tillräckligt" soundfile="820.ogg" type="">enough</word>
+	<word orig="lyckas" soundfile="821.ogg" type="">succeeds, (to) succeed</word>
+	<word orig="närmast" soundfile="822.ogg" type="">closest</word>
+	<word orig="st" soundfile="823.ogg" type="">counter word used to denote an amount of something</word>
+	<word orig="utländska" soundfile="824.ogg" type="">foreign</word>
+	<word orig="börjat" soundfile="825.ogg" type="">began, (has) begun</word>
+	<word orig="samman" soundfile="826.ogg" type="">together</word>
+	<word orig="författare" soundfile="827.ogg" type="">author</word>
+	<word orig="dåligt" soundfile="828.ogg" type="">bad</word>
+	<word orig="pappa" soundfile="829.ogg" type="">father (informal)</word>
+	<word orig="företagen" soundfile="830.ogg" type="">the corporations, the companies</word>
+	<word orig="programmet" soundfile="831.ogg" type="">the program</word>
+	<word orig="vm" soundfile="832.ogg" type="">World Championship</word>
+	<word orig="kvinnan" soundfile="833.ogg" type="">the woman</word>
+	<word orig="klarar" soundfile="834.ogg" type="">(is) able (to)</word>
+	<word orig="pris" soundfile="835.ogg" type="">cost, price, prize</word>
+	<word orig="verksamheten" soundfile="836.ogg" type="">the business, the area of work</word>
+	<word orig="väljer" soundfile="837.ogg" type="">chooses</word>
+	<word orig="leda" soundfile="838.ogg" type="">(to) lead</word>
+	<word orig="nå" soundfile="839.ogg" type="">(to) reach, well?</word>
+	<word orig="textat" soundfile="840.ogg" type="">normal handwriting, opposite of cursive writing</word>
+</dict>
