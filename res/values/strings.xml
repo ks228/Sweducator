@@ -3,5 +3,8 @@
 
     <string name="hello">Hello World, MainActivity!</string>
     <string name="app_name">Sweducator</string>
+    <string name="quiz_str">Quiz</string>
+    <string name="about_str">About</string>
+    <string name="about_app_and_me">Sweducator, by Ola Rende (2013) \n\n Feel free to provide feedback or error reports through the Sweducator page on Google Play.</string>
 
 </resources>

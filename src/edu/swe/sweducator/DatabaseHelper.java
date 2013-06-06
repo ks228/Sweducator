@@ -45,5 +45,14 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 					"word_id integer);");
 		}
 	}
+	
+	public static void safelyCloseDB(SQLiteDatabase db) {
+		if (db != null && db.isOpen()) {
+			db.close();
+		}
+	}
 
+	public static void safelyCloseDBHelper(DatabaseHelper dbh) {
+		
+	}
 }

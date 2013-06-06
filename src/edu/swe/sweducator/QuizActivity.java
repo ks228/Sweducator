@@ -37,7 +37,7 @@ public class QuizActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.quiz);
-				
+		
 		SharedPreferences settings = getSharedPreferences(PREFS_NAME, 0);
 		isCached = settings.getBoolean(IS_CACHED, false);
 		idOfAnswer = settings.getInt(ID_OF_ANSWER, -1);
@@ -224,7 +224,6 @@ public class QuizActivity extends Activity {
 			@Override
 			protected void onPreExecute() {
 				view.setBackgroundColor(color);
-				//TODO color wrong answer red, correct answer green
 			}
 			
 			@Override

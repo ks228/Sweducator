@@ -1,5 +1,5 @@
 package edu.swe.sweducator;
-import java.io.IOException;
+import java.io.FileNotFoundException;
 import java.util.HashMap;
 
 import android.content.res.AssetFileDescriptor;
@@ -11,43 +11,90 @@ import android.util.Log;
 
 public class SoundManager {
 	protected static final String LOG_TAG = "SoundManager";
-	private SoundPool sp;
+
+	//SoundPool playback constants
+	private static final int STREAM_ERROR = 0;
+	private static final float RATE = 1f;
+	private static final int LOOP = 0;
+	private static final int PRIORITY = 1;
+	private static final float RIGHT_VOLUME = 1f;
+	private static final float LEFT_VOLUME = 1f;
+
+	private SoundPool soundPool;
+
+	/** This hashmap maps soundfiles to soundId's. */
 	private HashMap<String, Integer> soundMap;
 	private final AssetManager assetManager;
 
 	public SoundManager(AssetManager assetManager) {
 		this.assetManager = assetManager;
-		soundMap = new HashMap<String, Integer>();
-		sp = new SoundPool(3, AudioManager.STREAM_MUSIC, 0);
-		sp.setOnLoadCompleteListener(new OnLoadCompleteListener() {
-			@Override
+		soundPool = new SoundPool(3, AudioManager.STREAM_MUSIC, 0);
+		soundPool.setOnLoadCompleteListener(new OnLoadCompleteListener() {
 			public void onLoadComplete(SoundPool soundPool, int sampleId, int status) {
-				Log.d(LOG_TAG, "Sound loaded");
+				if (status == 0 && sampleId != 0) {
+					if (soundPool.play(sampleId, LEFT_VOLUME, 
+							RIGHT_VOLUME, PRIORITY, LOOP, 
+								RATE) == STREAM_ERROR) {
+						Log.e(LOG_TAG, "Playback error for file with " +
+								"soundId " + sampleId);
+					}
+				} else {
+					Log.e(LOG_TAG, "Soundpool error, status code: " + status);
+				}
 			}
 		});
+		
+		soundMap = new HashMap<String, Integer>();
 	}
-
-	public void playSoundFileByName(String fileName) {
-		if ("i.ogg".equals(fileName) == false) {
-			Log.d(LOG_TAG, "Wrong file: " + fileName);
-			return;
-		}
+	
+	public boolean playSoundFile(String filename) {
+		boolean playbackSuccess = true;
 		try {
-			if (!soundMap.containsKey(fileName)) {
-				AssetFileDescriptor afd = assetManager.openFd(fileName);
-				int soundID = sp.load(afd, 1);
-				soundMap.put(fileName, soundID);
+			int soundID = 0;
+			try {
+				soundID = soundMap.get(filename);
+				if (soundID == 0) {
+					throw new Exception("Error loading soundfile " + filename);
+				}
+				if (soundPool.play(soundID, LEFT_VOLUME, RIGHT_VOLUME, 
+						PRIORITY, LOOP, RATE) == STREAM_ERROR) {
+					throw new Exception("Playback error for file " + 
+						filename + " with soundId " + soundID);
+				}
+				Log.d(LOG_TAG, "Played file: " + filename);
+			} catch (NullPointerException e) {
+				soundID = loadSound(filename);
+				if (soundID == -1) {
+					playbackSuccess = false;
+				}
 			}
-			
-			if (sp.play(soundMap.get(fileName), 1f, 1f, 1, 0, 1f) == 0) {
-				throw new Exception();
-			}
-			
-			Log.d(LOG_TAG, "Played file: " + fileName);
-		} catch (IOException e) {
-			e.printStackTrace();
 		} catch (Exception e) {
 			e.printStackTrace();
+			playbackSuccess = false;
 		}
+		return playbackSuccess;
+	}
+
+	private int loadSound(String filename) {
+		AssetFileDescriptor afd;
+		int result = 0;
+		try {
+			afd = assetManager.openFd(filename);
+			int soundId = soundPool.load(afd, PRIORITY);
+			if (soundId != 0) {
+				soundMap.put(filename, soundId);
+				return soundId;
+			} else {
+				Log.e(LOG_TAG, "Error loading file " + filename + 
+						" into soundpool");
+			}
+		} catch (FileNotFoundException e) {
+			Log.e(LOG_TAG, "File " + filename + " not found");
+			result = -1;
+		} catch (Exception e) {
+			e.printStackTrace();
+			result = -1;
+		}
+		return result;
 	}
 }
